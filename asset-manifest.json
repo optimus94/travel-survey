@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travel-survey/static/css/main.09ad7081.chunk.css",
+    "main.js": "/travel-survey/static/js/main.6666adbd.chunk.js",
+    "main.js.map": "/travel-survey/static/js/main.6666adbd.chunk.js.map",
+    "runtime-main.js": "/travel-survey/static/js/runtime-main.eddd2038.js",
+    "runtime-main.js.map": "/travel-survey/static/js/runtime-main.eddd2038.js.map",
+    "static/js/2.440c6704.chunk.js": "/travel-survey/static/js/2.440c6704.chunk.js",
+    "static/js/2.440c6704.chunk.js.map": "/travel-survey/static/js/2.440c6704.chunk.js.map",
+    "index.html": "/travel-survey/index.html",
+    "static/css/main.09ad7081.chunk.css.map": "/travel-survey/static/css/main.09ad7081.chunk.css.map",
+    "static/js/2.440c6704.chunk.js.LICENSE.txt": "/travel-survey/static/js/2.440c6704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eddd2038.js",
+    "static/js/2.440c6704.chunk.js",
+    "static/css/main.09ad7081.chunk.css",
+    "static/js/main.6666adbd.chunk.js"
+  ]
+}
